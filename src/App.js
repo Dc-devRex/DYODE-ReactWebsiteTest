@@ -1,23 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from "./components/Navbar";
+import Banner from "./components/Banner";
+import HeroSlider from "./components/HeroSlider";
+import Categories from "./components/Categories";
+import Favorite from "./components/Favorite";
+import ArrivalSlider from "./components/ArrivalsCarousel"
+import Instagram from './components/Instagram';
+import Signup from './components/Signup';
+import Footer from './components/Footer';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+     <Banner />
+     <Navbar />
+     <HeroSlider />
+     <Categories />
+     <ArrivalSlider />
+     <Favorite />
+     <Instagram />
+     <Signup />
+     <Footer />
     </div>
   );
 }
