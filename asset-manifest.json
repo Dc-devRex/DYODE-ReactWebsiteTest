@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/DYODE-ReactWebsiteTest/static/css/main.131db48f.chunk.css",
+    "main.js": "/DYODE-ReactWebsiteTest/static/js/main.6a2fbb5a.chunk.js",
+    "main.js.map": "/DYODE-ReactWebsiteTest/static/js/main.6a2fbb5a.chunk.js.map",
+    "runtime-main.js": "/DYODE-ReactWebsiteTest/static/js/runtime-main.a6df9f08.js",
+    "runtime-main.js.map": "/DYODE-ReactWebsiteTest/static/js/runtime-main.a6df9f08.js.map",
+    "static/css/2.25ac6c02.chunk.css": "/DYODE-ReactWebsiteTest/static/css/2.25ac6c02.chunk.css",
+    "static/js/2.776bf963.chunk.js": "/DYODE-ReactWebsiteTest/static/js/2.776bf963.chunk.js",
+    "static/js/2.776bf963.chunk.js.map": "/DYODE-ReactWebsiteTest/static/js/2.776bf963.chunk.js.map",
+    "index.html": "/DYODE-ReactWebsiteTest/index.html",
+    "static/css/2.25ac6c02.chunk.css.map": "/DYODE-ReactWebsiteTest/static/css/2.25ac6c02.chunk.css.map",
+    "static/css/main.131db48f.chunk.css.map": "/DYODE-ReactWebsiteTest/static/css/main.131db48f.chunk.css.map",
+    "static/js/2.776bf963.chunk.js.LICENSE.txt": "/DYODE-ReactWebsiteTest/static/js/2.776bf963.chunk.js.LICENSE.txt",
+    "static/media/accessories.a754370f.png": "/DYODE-ReactWebsiteTest/static/media/accessories.a754370f.png",
+    "static/media/App.css": "/DYODE-ReactWebsiteTest/static/media/lower-hero.68082b59.png",
+    "static/media/hover-mens.597180b5.png": "/DYODE-ReactWebsiteTest/static/media/hover-mens.597180b5.png",
+    "static/media/mens.06ac6595.png": "/DYODE-ReactWebsiteTest/static/media/mens.06ac6595.png",
+    "static/media/new-arrival.8507d1f9.png": "/DYODE-ReactWebsiteTest/static/media/new-arrival.8507d1f9.png",
+    "static/media/slick-theme.css": "/DYODE-ReactWebsiteTest/static/media/slick.c94f7671.ttf",
+    "static/media/social1.597180b5.png": "/DYODE-ReactWebsiteTest/static/media/social1.597180b5.png",
+    "static/media/social2.bf416f29.png": "/DYODE-ReactWebsiteTest/static/media/social2.bf416f29.png",
+    "static/media/social3.bd3baa3b.png": "/DYODE-ReactWebsiteTest/static/media/social3.bd3baa3b.png",
+    "static/media/social4.1586100e.png": "/DYODE-ReactWebsiteTest/static/media/social4.1586100e.png",
+    "static/media/social5.c105be01.png": "/DYODE-ReactWebsiteTest/static/media/social5.c105be01.png",
+    "static/media/womens-sm.2b2a595a.png": "/DYODE-ReactWebsiteTest/static/media/womens-sm.2b2a595a.png",
+    "static/media/womens.5c867135.png": "/DYODE-ReactWebsiteTest/static/media/womens.5c867135.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6df9f08.js",
+    "static/css/2.25ac6c02.chunk.css",
+    "static/js/2.776bf963.chunk.js",
+    "static/css/main.131db48f.chunk.css",
+    "static/js/main.6a2fbb5a.chunk.js"
+  ]
+}
